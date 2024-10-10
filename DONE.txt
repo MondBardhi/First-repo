@@ -1,2 +1,5 @@
 ABC
+<<<<<<< HEAD
 DEF
+=======
+>>>>>>> parent of 6b1e47c (add working unstage done)
